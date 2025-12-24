@@ -52,7 +52,7 @@ git clone https://github.com/harith-cs/MarkTex.git
 
 ---
 
-## 📝 Notes
+## Notes
 
 * The main application and source code are inside the `MarkTexApp` folder.
 * Temporary files and build outputs are ignored via `.gitignore`.
@@ -60,7 +60,7 @@ git clone https://github.com/harith-cs/MarkTex.git
 
 ---
 
-## 🛠️ MarkTex Syntax and Features
+## MarkTex Syntax and Features
 
 MarkTex provides a LaTeX-inspired syntax to format text into Unicode symbols, mathematical notation, and styled text. Below is a detailed explanation of its supported syntax and features.
 
